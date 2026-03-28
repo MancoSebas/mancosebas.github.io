@@ -9,9 +9,7 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  // Overridden by SITE/BASE env vars during GitHub Pages CI build
-  site: process.env.SITE ?? "https://your-domain.com",
-  base: process.env.BASE ?? "/",
+  site: "https://mancosebas.github.io",
 
   vite: {
     plugins: [tailwindcss()],
