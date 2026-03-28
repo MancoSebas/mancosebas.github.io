@@ -9,8 +9,9 @@ import sitemap from "@astrojs/sitemap";
 
 // https://astro.build/config
 export default defineConfig({
-  // IMPORTANT: Change this to your deployed site URL
-  site: "https://your-domain.com",
+  // Overridden by SITE/BASE env vars during GitHub Pages CI build
+  site: process.env.SITE ?? "https://your-domain.com",
+  base: process.env.BASE ?? "/",
 
   vite: {
     plugins: [tailwindcss()],
