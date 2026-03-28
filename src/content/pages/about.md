@@ -5,9 +5,9 @@ description: About this site and its author
 
 ## About Me
 
-Hello! I'm a developer who loves building things for the web.
+Hello! I'm a Physicist, with special interest in Data Science and Data Analysis.
 
-I created this site using [Astro](https://astro.build) and [Tailwind CSS](https://tailwindcss.com), and I'm sharing it as a theme called **Breeze** so others can use it too.
+I created this site using [Astro](https://astro.build) and [Tailwind CSS](https://tailwindcss.com), with the objective of talking about physics, computation, data science, and other things that I could consider interesting.
 
 ## Tech Stack
 
@@ -15,11 +15,11 @@ I created this site using [Astro](https://astro.build) and [Tailwind CSS](https:
 - TypeScript
 - Markdown / MDX
 
-## What I Write About
+## What I Write (or want to write) About
 
-- Web development tips and tutorials
-- Tools and workflows I find useful
-- Thoughts on technology and design
+- Data Science
+- Physics and computation
+- Other interesting things - offtopic
 
 ## Contact
 
