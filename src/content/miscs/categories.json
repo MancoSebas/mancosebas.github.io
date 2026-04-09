@@ -21,5 +21,11 @@
     "name": "Uncategorized",
     "slug": "uncategorized",
     "icon": "mdi:folder"
+  },
+  {
+    "name": "Physics",
+    "slug": "physics",
+    "description": "Science and physics experiences",
+    "icon": "mdi:atom-variant"
   }
 ]
