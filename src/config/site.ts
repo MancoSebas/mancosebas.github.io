@@ -5,7 +5,7 @@ export const siteConfig = {
   shortName: 'Astro Narrow',
   description: 'A content-focused Astro theme inspired by Hugo Narrow.',
   author: {
-    name: 'Astro Narrow',
+    name: 'Sebastian Manco',
     title: {
       en: 'A clean and minimal Astro theme',
       'zh-cn': '一个干净克制的 Astro 主题'
